@@ -1,6 +1,6 @@
 # Gikomba Stall Performance Analysis
 
-**Name:** Masingita Louisa Mkhabela  
+**Name:** Louisa Mkhabela  
 **Cohort:** Power Learn Project AI Safari / Data Analytics  
 
 ---
